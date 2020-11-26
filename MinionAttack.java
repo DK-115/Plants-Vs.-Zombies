@@ -49,6 +49,7 @@ public class MinionAttack extends JPanel {
 		setPreferredSize(new Dimension(50 + numCols * cellSize, 50 + numRows * cellSize));
 
 		// Store all the plants and zombies in here.
+        // Sup everybody
 		actors = new ArrayList<>();
 
 		// Load images, otherwise gives an error if images are not found
